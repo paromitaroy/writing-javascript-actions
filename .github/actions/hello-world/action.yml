@@ -6,12 +6,12 @@ inputs:
   first-greeting:
     description: "who would you  like to greet in the console"
     required: false 
-    default: "Hubot"
+   # default: "Hubot"
   
   second-greeting:
     description: "another person to greet"
     required: false
-    default: "Mona the Octocat"
+    #default: "Mona the Octocat"
 
   third-greeting:
     description: "a third greeting"
